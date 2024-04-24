@@ -157,6 +157,11 @@ body {
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
+.about-video {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
 
 .custom_menu-btn .s-2 {
   -webkit-transition: all 0.1s;
